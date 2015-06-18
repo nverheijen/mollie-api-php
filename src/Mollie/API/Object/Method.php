@@ -62,6 +62,11 @@ class Mollie_API_Object_Method
 	const BANKTRANSFER = "banktransfer";
 
 	/**
+	 * @link https://mollie.com/directdebit
+	 */
+	const DIRECTDEBIT  = "directdebit";
+
+	/**
 	 * @link https://mollie.com/paypal
 	 */
 	const PAYPAL       = "paypal";
